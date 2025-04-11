@@ -1,3 +1,7 @@
+# ignore data
+data
+develop/data
+
 # ignore env files
 dev.env
 
